@@ -1,0 +1,5 @@
+<?php
+echo"saya belajar koding bahasa php";
+echo"<br>";
+echo"hello word";
+?>
